@@ -22,3 +22,15 @@ int main(void)
                                                 putchar('\n');
                                         }
                                         else
+  					      {
+                                                putchar(',');
+                                                putchar(' ');
+                                        }
+                                }
+                                j++;
+                        }
+                        j = '0';
+                        i++;
+        }
+return (0);
+}						
