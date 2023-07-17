@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description 'print alphabets except q and e'
- * Retern: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
