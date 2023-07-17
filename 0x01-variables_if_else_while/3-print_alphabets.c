@@ -12,7 +12,7 @@ int main(void)
 while (n <= 122)
 {
 	putchar(n);
-        n++;
+n++;
 }
 while (m <= 90)
 {
